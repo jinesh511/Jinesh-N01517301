@@ -1,0 +1,2 @@
+This is the demo file for Automation Lab 1
+This is my first commit
